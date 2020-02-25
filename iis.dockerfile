@@ -1,9 +1,10 @@
-# This dockerfile utilizes components licensed by their respective owners/authors.
+FROM ubuntu:18.10
 
-FROM microsoft/windowsservercore
+LABEL maintainer="oshimamasara@gmail.com"
+LABEL version="1.0"
+LABEL description="Dockerfileのテスト、Apacheサーバー"
 
-LABEL Description="IIS" Vendor="Microsoft" Version="10"
+RUN apt-get update
+RUN apt-get install -y apache2
 
-RUN powershell -Command Add-WindowsFeature Web-Server
-
-CMD [ "ping", "localhost", "-t" ]
+CMD ["apachectl", "-D", "FOREGROUND"]
