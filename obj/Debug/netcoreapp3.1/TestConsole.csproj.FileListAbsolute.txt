@@ -8,3 +8,4 @@ C:\Users\G719211\Documents\GitHub\test20200214\obj\Debug\netcoreapp3.1\TestConso
 C:\Users\G719211\Documents\GitHub\test20200214\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfo.cs
 C:\Users\G719211\Documents\GitHub\test20200214\obj\Debug\netcoreapp3.1\TestConsole.dll
 C:\Users\G719211\Documents\GitHub\test20200214\obj\Debug\netcoreapp3.1\TestConsole.pdb
+C:\Users\G719211\Documents\GitHub\test20200214\obj\Debug\netcoreapp3.1\TestConsole.csprojAssemblyReference.cache
