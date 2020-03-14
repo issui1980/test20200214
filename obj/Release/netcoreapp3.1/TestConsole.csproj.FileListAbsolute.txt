@@ -1,0 +1,10 @@
+C:\Users\G719211\Documents\GitHub\test20200214\bin\Release\netcoreapp3.1\TestConsole.exe
+C:\Users\G719211\Documents\GitHub\test20200214\bin\Release\netcoreapp3.1\TestConsole.deps.json
+C:\Users\G719211\Documents\GitHub\test20200214\bin\Release\netcoreapp3.1\TestConsole.runtimeconfig.json
+C:\Users\G719211\Documents\GitHub\test20200214\bin\Release\netcoreapp3.1\TestConsole.runtimeconfig.dev.json
+C:\Users\G719211\Documents\GitHub\test20200214\bin\Release\netcoreapp3.1\TestConsole.dll
+C:\Users\G719211\Documents\GitHub\test20200214\bin\Release\netcoreapp3.1\TestConsole.pdb
+C:\Users\G719211\Documents\GitHub\test20200214\obj\Release\netcoreapp3.1\TestConsole.AssemblyInfoInputs.cache
+C:\Users\G719211\Documents\GitHub\test20200214\obj\Release\netcoreapp3.1\TestConsole.AssemblyInfo.cs
+C:\Users\G719211\Documents\GitHub\test20200214\obj\Release\netcoreapp3.1\TestConsole.dll
+C:\Users\G719211\Documents\GitHub\test20200214\obj\Release\netcoreapp3.1\TestConsole.pdb
